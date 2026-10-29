@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "plainrouter": {
+      "type": "http",
+      "url": "https://plainrouter.com/mcp"
+    }
+  }
+}
